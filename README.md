@@ -1,4 +1,3 @@
-# rbenv
 
 ## CentOS rbenv system wide installation script from rbenv official.
 
